@@ -4,7 +4,6 @@ For the sake of completeness, highlighting scheme for DTX/Sweave/Pweave/Asymptot
 
 Don't forget to make a copy of your current highlighting scheme in case you want to switch back later.
 
-Screenshots:
-
-![SD](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SD.png)
-![SL](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SL.png)
+Solarized Dark             |  Solarized Light
+:-------------------------:|:-------------------------:
+![](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SD.png)  |  ![](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SL.png)
