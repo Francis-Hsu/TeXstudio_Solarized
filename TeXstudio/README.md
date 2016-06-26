@@ -3,3 +3,8 @@ This repository contains self-made Solarized Dark/Light themes for TeXstudio. To
 For the sake of completeness, highlighting scheme for DTX/Sweave/Pweave/Asymptote/Lua editing are also included, though I rarely use them so there may be inconsistency. Both themes are tested with current version (2.11.0) of TeXstudio.
 
 Don't forget to make a copy of your current highlighting scheme in case you want to switch back later.
+
+Screenshots:
+
+![SD](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SD.png)
+![SL](https://github.com/Francis-Hsu/LaTeX/blob/master/TeXstudio/SL.png)
