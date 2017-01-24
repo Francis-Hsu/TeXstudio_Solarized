@@ -8,4 +8,4 @@ Don't forget to make a copy of your current highlighting scheme in case you want
 ##Screenshots
 Solarized Dark             |  Solarized Light
 :-------------------------:|:-------------------------:
-![](https://github.com/Francis-Hsu/LaTeX/blob/master/SD.png)  |  ![](https://github.com/Francis-Hsu/LaTeX/blob/master/SL.png)
+![](https://github.com/Francis-Hsu/LaTeX/blob/master/Screenshots/SD.png)  |  ![](https://github.com/Francis-Hsu/LaTeX/blob/master/Screenshots/SL.png)
